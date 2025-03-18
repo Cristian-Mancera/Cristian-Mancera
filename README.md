@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Cristian-Mancera"><img width="80%" alt="Hello, I'm Cristian!" src="https://github.com/Cristian-Mancera/Town/blob/main/Hello.png" /></a></p>
+<p align="center"><a href="https://github.com/Cristian-Mancera"><img width="80%" alt="Hello, I'm Cristian!" src="https://github.com/Cristian-Mancera/Cristian-Mancera/blob/main/Hello.png" /></a></p>
 
 <br />
 
