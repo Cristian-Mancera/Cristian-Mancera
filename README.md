@@ -21,7 +21,7 @@
 #### Connect with Me
 
 <code><a href="https://www.linkedin.com/in/cristian-mancera-156235337/" target="_blank"><img height="25" src="https://skillicons.dev/icons?i=linkedin"></a></code> 
-<code><a href="https://discord.gg/VzSMQHfKVs" target="_blank"><img height="25" src="https://skillicons.dev/icons?i=discord"></a></code> 
+<code><a href="https://discord.gg/5ZA2h2j9YK" target="_blank"><img height="25" src="https://skillicons.dev/icons?i=discord"></a></code> 
 <code><a href="https://github.com/Cristian-Mancera" target="_blank"><img height="25" src="https://skillicons.dev/icons?i=github"></a></code>
 
 
